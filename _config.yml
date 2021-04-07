@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "YunHo's Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "YunHo Lee"
+name                     : "YunHoLee"
 description              : "An amazing website."
 url                      : "https://mynameis-yunho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
